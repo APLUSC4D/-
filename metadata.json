@@ -1,0 +1,6 @@
+{
+  "name": "Local Media Manager",
+  "description": "An Eagle-inspired desktop media organizer for image and video libraries. Features hierarchical folders, ratings, tag management, dominant color extraction, and server-side Gemini AI smart metadata generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
